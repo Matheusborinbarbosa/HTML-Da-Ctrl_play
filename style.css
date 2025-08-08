@@ -1,0 +1,21 @@
+.text-banner{/*mudando a cor dos textos!*/
+    color: cyan;
+    text-align: center;
+}
+.text2{
+    color: white;
+    text-align: center;
+}
+.text3{
+    color: cyan;
+    text-align: center;
+}
+body{ /*mudando a cor do body!*/
+    background-color: pink;
+} 
+.div1{
+    height: 15vh;
+    background-color: white;
+    
+    width: 15vh;
+}
