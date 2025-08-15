@@ -14,8 +14,14 @@ body{ /*mudando a cor do body!*/
     background-color: pink;
 } 
 .div1{
-    height: 15vh;
+    height: 100vh;
     background-color: white;
+    width: 100vw;
+    margin: auto;
     
-    width: 15vh;
+    
+}
+.image1{
+ margin:auto;
+ 
 }
