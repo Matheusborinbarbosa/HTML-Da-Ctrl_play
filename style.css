@@ -18,6 +18,7 @@ body{ /*mudando a cor do body!*/
     background-color: white;
     width: 100vw;
     margin: auto;
+    justify-content: center;
     
     
 }
